@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "contact"
+AuthUserFile /y3-6-18.github.io/.htpasswd
+require valid-user
